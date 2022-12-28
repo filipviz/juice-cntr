@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn on Juicebox Center</title>
+    <link>/learn/</link>
+    <description>Recent content in Learn on Juicebox Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <atom:link href="/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1: What is Juicebox?</title>
+      <link>/learn/what/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/learn/what/</guid>
+      <description>&lt;p&gt;You probably know Juicebox as the tool which helped projects like &lt;a href=&#34;https://juicebox.money/p/constitutiondao&#34;&gt;ConstitutionDAO&lt;/a&gt; and &lt;a href=&#34;https://juicebox.money/p/assangedao&#34;&gt;AssangeDAO&lt;/a&gt; raise thousands of ETH and issue tokens to their communities: it&amp;rsquo;s a decentralized Ethereum protocol which was first deployed on July 15th, 2021 — since then, it has been used to raise more than 50,000 ETH, worth some 170 million dollars. For context:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The most successful Kickstarter project of all time received over 40 million dollars in 2022. Within its first year of operation, Juicebox had &lt;strong&gt;multiple&lt;/strong&gt; projects raise more than 40 million dollars (the two DAOs mentioned above).&lt;/li&gt;
+&lt;li&gt;Excluding projects which haven&amp;rsquo;t received any ETH yet, the average Juicebox project has raised over $375,000 (of course, the median is much lower).&lt;/li&gt;
+&lt;li&gt;Projects using Juicebox have &lt;a href=&#34;https://juicebox.money/p/moondao&#34;&gt;sent people into space&lt;/a&gt;, created &lt;a href=&#34;https://juicebox.money/p/slice&#34;&gt;innovative DeFi protocols&lt;/a&gt;, and even &lt;a href=&#34;https://juicebox.money/p/juicebox&#34;&gt;built new versions of the Juicebox protocol&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Despite its capabilities, &lt;strong&gt;many misunderstand how the protocol actually works&lt;/strong&gt; — even people well-versed in DeFi.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-juicebox&#34;&gt;What is Juicebox?&lt;/h2&gt;
+&lt;p&gt;Juicebox is a &lt;strong&gt;programmable crypto funding protocol&lt;/strong&gt; which works a bit like Kickstarter, Patreon, Gofundme, Indiegogo, and Gumroad, but all in one. And it isn&amp;rsquo;t only for $50m+ fundraisers — people have used Juicebox to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Democratize funding for &lt;a href=&#34;https://juicebox.money/@studiodao&#34;&gt;filmmakers and fans&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Run shared treasuries for &lt;a href=&#34;https://juicebox.money/p/tiles&#34;&gt;experimental art communities&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sustainably fund &lt;a href=&#34;https://juicebox.money/p/slice&#34;&gt;open source software projects&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Replace a car by &lt;a href=&#34;https://juicebox.money/@carpooltogether&#34;&gt;selling NFTs&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Transparently acquire and manage &lt;a href=&#34;https://juicebox.money/@kgroupdao&#34;&gt;real estate&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Super-charge payment processing for &lt;a href=&#34;https://juicebox.money/p/peace&#34;&gt;charities&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Transparently manage &lt;a href=&#34;https://juicebox.money/p/johnnydao&#34;&gt;personal income&lt;/a&gt; (publicly making charitable contributions along the way).&lt;/li&gt;
+&lt;li&gt;Support their &lt;a href=&#34;https://juicebox.money/@blecreport&#34;&gt;newsletter&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Along with many, many other use cases. The protocol&amp;rsquo;s fundamentals are relatively simple:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;When people pay your project, they receive your project&amp;rsquo;s tokens. Like other tokens, these can be used for governance or token-gated websites.&lt;/li&gt;
+&lt;li&gt;You can distribute funds out from your project, to the wallets or Juicebox projects of your choosing. You pre-define these distributions, but you can change them over time.&lt;/li&gt;
+&lt;li&gt;If people are unhappy with the direction your project is headed, they can redeem their tokens to claim a proportional share of the ETH in the project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In practice, as the project creator, you have powerful controls over each one of these mechanics. You can change token issuance rates, redemption rates, distributions, and other project settings over time, leading to powerful and elegant tokenomics. You can also lock your settings in place for pre-determined amounts of time, guaranteeing to your community that you won&amp;rsquo;t rug them. Juicebox lets you have as much control over your project as you might want, but it also lets you give up control when you need to.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2: Why should I use it?</title>
+      <link>/learn/why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/learn/why/</guid>
+      <description>&lt;p&gt;If it&amp;rsquo;s not clear already, you can use Juicebox to fund just about anything. But if that&amp;rsquo;s not enough:&lt;/p&gt;
+&lt;h4 id=&#34;1-you-actually-own-your-project&#34;&gt;1. You actually own your project.&lt;/h4&gt;
+&lt;p&gt;When you create a Juicebox project, a &lt;em&gt;Project NFT&lt;/em&gt; is minted to your wallet.
+Only the holder of the Project NFT (i.e. the &amp;ldquo;project owner&amp;rdquo;) can change how the project works.
+In other words, &lt;strong&gt;you are the only person who owns your project.&lt;/strong&gt;
+Nobody can change your project&amp;rsquo;s settings — not even JuiceboxDAO.&lt;/p&gt;
+&lt;h4 id=&#34;2-it-cant-hurt-right&#34;&gt;2. It can&amp;rsquo;t hurt, right?&lt;/h4&gt;
+&lt;p&gt;Right now, the gas fee (Ethereum network fee) to deploy a Juicebox project is 0.007 ETH, or about $8:&lt;/p&gt;
+
+&lt;img class=&#34;image&#34; src=&#34;/images/deploy-gas.png&#34; alt=&#34;$8.75 gas fee for deploying a Juicebox project&#34;&gt;
+
+&lt;p&gt;If it&amp;rsquo;s your first time using Juicebox, it may take you 10-15 minutes to deploy your project.&lt;/p&gt;
+&lt;p&gt;I think &lt;em&gt;most&lt;/em&gt; people would agree that spending $8 and 15 minutes is worth having a transparent, programmable, globally accessible, uncensorable blockchain treasury that can scale to millions of dollars, mint custom NFTs, managing complex tokenomics &lt;strong&gt;and&lt;/strong&gt; handle your payroll.&lt;/p&gt;
+&lt;h4 id=&#34;3-it-saves-you-money&#34;&gt;3. It saves you money.&lt;/h4&gt;
+&lt;p&gt;According to &lt;a href=&#34;https://www.gofundme.com/c/blog/top-crowdfunding-sites&#34;&gt;this article by Gofundme&lt;/a&gt;, popular fundraising websites respectively charge:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Platform&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Fees&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Gofundme&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2.9% + $0.30 per donation.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Kickstarter&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A 5% service fee, and an additional fee of 3% + $0.20 per donation.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Indiegogo&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A platform fee of 5%, along with 3% + $0.20 per transaction (and an additional $25 fee on international transfers).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Patreon&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A 5-12% Patreon fee, along with 2.9% + $0.30 per transaction, and 5% + $0.10 per microtransaction (&amp;lt; $3).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://help.gumroad.com/article/66-gumroads-fees&#34;&gt;Gumroad&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A 10% platform fee and an additional 2.9% + $0.30 per transaction.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;The Juicebox protocol fee is only 2.5%.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;But what&amp;rsquo;s more:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The fee only takes place on distributions to external wallets (when funds leave the Juicebox ecosystem). Letting your community burn their tokens to claim a refund? No fees. Sending funds to another Juicebox project? Also no fees.&lt;/li&gt;
+&lt;li&gt;Fees are routed to the &lt;a href=&#34;https://juicebox.money/@juicebox&#34;&gt;JuiceboxDAO&lt;/a&gt; project. And just like when you pay other Juicebox projects, this mints project tokens, at the same exchange rate somebody directly paying the project would get. By paying fees, you not only fund further development of the protocol — you govern a little bit of it too. If you want, you can even redeem those tokens to reclaim a portion of the fees you paid.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-juicebox-is-honest&#34;&gt;4. Juicebox is honest.&lt;/h4&gt;
+&lt;p&gt;A Juicebox project keeps you accountable to your community. You&amp;rsquo;re forced to clearly set terms, and have no choice but to stick by them. Everything is publicly accessible on the blockchain, meaning your finances &lt;strong&gt;have&lt;/strong&gt; to be transparent.&lt;/p&gt;
+&lt;p&gt;Donors love this!
+Why would somebody want to contribute to a charity that isn&amp;rsquo;t transparent over one that is?
+Why would an investor want to fund a project based on a rough balance sheet when they could see everything instead?&lt;/p&gt;
+&lt;h4 id=&#34;5-its-flexible&#34;&gt;5. It&amp;rsquo;s flexible.&lt;/h4&gt;
+&lt;p&gt;Want to raise funds over a four day period, with tokens getting slightly more expensive each day, and then have token issuance shut off completely for a 30 day period?&lt;/p&gt;
+&lt;p&gt;Want to start with token redemptions off, and then slowly turn them up over time as your community grows?&lt;/p&gt;
+&lt;p&gt;Want to start out as a fundraiser, and then convert into a treasury for managing payroll and receiving revenues on chain?&lt;/p&gt;
+&lt;p&gt;Not only can you easily do all of these things by using Juicebox, but you can easily switch from one to the other by changing your project&amp;rsquo;s settings. When combined with crypto payments, this makes Juicebox powerful at almost any scale.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3: How does it work?</title>
+      <link>/learn/how/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/learn/how/</guid>
+      <description>&lt;p&gt;When you make your project on &lt;a href=&#34;https://juicebox.money/create&#34;&gt;juicebox.money&lt;/a&gt;, you have a wide arsenal of tools at your disposal:&lt;/p&gt;
+&lt;h4 id=&#34;project-details&#34;&gt;Project details&lt;/h4&gt;
+&lt;p&gt;Your project&amp;rsquo;s name, logo, and description. Tell people what your project is about, and why they should support it! You can edit these later.&lt;/p&gt;
+&lt;h4 id=&#34;funding-cycles&#34;&gt;Funding cycles&lt;/h4&gt;
+&lt;p&gt;A period of time (3 minutes, 2 years, 14 days, etc.) that you lock your project&amp;rsquo;s settings for.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;But why would I want to lock my project&amp;rsquo;s settings?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Funding cycles let you clearly set your terms, and shows your community that you won&amp;rsquo;t change them on a whim! If you try to change your project, those changes get &lt;em&gt;queued&lt;/em&gt; for the next funding cycle — instead of going into effect immediately, they go into effect when your next funding cycle starts. If your don&amp;rsquo;t queue a funding cycle, it just copies your current settings over. If you don&amp;rsquo;t want to lock your settings, you can use &lt;em&gt;manual funding cycles&lt;/em&gt;, which lets you change settings at any time.&lt;/p&gt;
+&lt;h4 id=&#34;funding-target&#34;&gt;Funding Target&lt;/h4&gt;
+&lt;p&gt;Your funding target is the maximum amount of funds you can pull out of a project during a funding cycle. A funding target of 0 means you can&amp;rsquo;t pull any funds out. An infinite funding target means you can pull all of the funds out. A funding target of 3 ETH means you can pull 3 ETH out. And a funding target of $4,500 means you can pull $4,500 worth of ETH out.&lt;/p&gt;
+&lt;h4 id=&#34;overflow&#34;&gt;Overflow&lt;/h4&gt;
+&lt;p&gt;Once you hit your funding target, extra funds in the project are considered overflow. Overflow does two things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It serves as a runway for your project. Your funding target resets every funding cycle, and your overflow gives you a head-start towards that goal.&lt;/li&gt;
+&lt;li&gt;It allows your community to redeem their tokens for a proportional claim of the overflow. Somebody who has 10% of your project&amp;rsquo;s tokens can redeem them for 10% of the overflow.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;payouts&#34;&gt;Payouts&lt;/h4&gt;
+&lt;p&gt;This is where the funds (up to your target) go. All funds go to the project owner by default, but you can predefine any amount of wallets and Juicebox projects to route funds to. You can split up funds by percentage (50% of funds go to &lt;code&gt;vitalik.eth&lt;/code&gt;) or by amount (3 ETH goes to Vitalik, $2,500 worth of ETH goes to Vitalik, etc). You can use payouts to manage your organization&amp;rsquo;s entire payroll — JuiceboxDAO does!&lt;/p&gt;
+&lt;h4 id=&#34;mint-rate&#34;&gt;Mint rate&lt;/h4&gt;
+&lt;p&gt;This is the number of project tokens minted per ETH. In other words, your project token&amp;rsquo;s exchange rate.&lt;/p&gt;
+&lt;h4 id=&#34;reserved-tokens&#34;&gt;Reserved tokens&lt;/h4&gt;
+&lt;p&gt;As tokens are minted, you can set aside a percentage of them for the wallets and Juicebox projects of your choosing. With a reserved rate of 20%, 20% of tokens are redirected towards whoever is on your list.&lt;/p&gt;
+&lt;h4 id=&#34;discount-rate&#34;&gt;Discount rate&lt;/h4&gt;
+&lt;p&gt;This makes your token more expensive over time. With a 5% discount rate, your tokens get 5% more expensive next funding cycle, even if you don&amp;rsquo;t change any configurations.&lt;/p&gt;
+&lt;h4 id=&#34;redemption-rate&#34;&gt;Redemption rate&lt;/h4&gt;
+&lt;p&gt;At 100%, redemptions are 1:1. At 0%, no redemptions happen. Anywhere else, redemptions take place along a bonding curve, meaning earlier redeemers will get less ETH in return, and later redeemers will get more.&lt;/p&gt;
+&lt;h4 id=&#34;token-minting&#34;&gt;Token minting&lt;/h4&gt;
+&lt;p&gt;If this is enabled, the project creator can mint tokens on demand. Most people keep this off!&lt;/p&gt;
+&lt;h4 id=&#34;nfts&#34;&gt;NFTs&lt;/h4&gt;
+&lt;p&gt;You can add NFT tiers to your project, with minimum contribution amounts for minting. You can also limit the supply. This is a great way to create an NFT collection for your artwork — some projects use Juicebox just to have this feature!&lt;/p&gt;
+&lt;h4 id=&#34;reconfiguration-delay&#34;&gt;Reconfiguration delay&lt;/h4&gt;
+&lt;p&gt;Funding cycles still have a problem: &lt;em&gt;What happens if you change your project settings at the last second?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A 3-day reconfiguration delay is exactly what it sounds like: if you try to reconfigure your project within the last 3 days of a funding cycle, those changes get queued for the funding cycle &lt;em&gt;after&lt;/em&gt; the next one. You can also do a 7-day delay, or have no delay at all!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

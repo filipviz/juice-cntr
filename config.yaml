@@ -1,0 +1,44 @@
+---
+title: "Juicebox Center"
+baseURL: ""
+theme: "zen"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Juicebox"
+  url: "https://juicebox.money"
+  avatar: "/images/logo.svg"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "https://discord.gg/juicebox"
+  description: "Resource center for the Juicebox crypto fundraising protocol."
+  dateformat: "2 January, 2006"
+  favicon: "favicon.ico"
+  feedlinks: true
+  icon: "favicon.ico"
+  image: "/images/logo.svg"
+  imageMaxWidth: 400
+  logoPath: "/images/logo.svg"
+  logoWidth: 36
+  mobileMenu: true
+  poweredby: true
+  realfavicongenerator: true
+  sidebar: true
+  submitted: false
+  themeColor: "#F5A312"
