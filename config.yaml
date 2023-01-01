@@ -1,6 +1,6 @@
 ---
 title: "Juicebox Center"
-baseURL: "https://filipvvv.github.io/juice-cntr/"
+baseURL: "/"
 theme: "zen"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
